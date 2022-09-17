@@ -40,7 +40,8 @@ export default function Index() {
       navExitIcon: Delete,
       children: [
         { icon: Upload, label: "Tailwind", path: '/tailwind' },
-        { icon: Upload, label: "Baseweb", path: '/baseweb'}
+        { icon: Upload, label: "Baseweb", path: '/baseweb'},
+        { icon: Upload, label: "Evergreen", path: '/evergreen'}
       ]
     }
   ]);

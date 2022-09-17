@@ -17,6 +17,13 @@ export default function Index() {
             Baseweb
           </a>
         </li>
+        <li>
+          <a
+            href="/evergreen"
+          >
+            Evergreen
+          </a>
+        </li>
       </ul>
     </div>
   );
